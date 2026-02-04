@@ -1,0 +1,13 @@
+1: What is the minimum CPU and RAM usage recorded during the monitoring period?
+ans: 
+2: At what timestamp did the lowest CPU usage occur, and what was the RAM usage at that time?
+
+3: How does CPU usage fluctuate over time, and what could be the possible reasons for these fluctuations?
+
+4: Is there any correlation between CPU usage and RAM usage in the dataset? Explain your observation.
+
+5: What does the RAM usage trend indicate about system memory behavior during the session?
+
+6: How many times did the CPU usage exceed the average value, and what does this indicate?
+
+7: Based on the observed data, was the system under heavy load at any point? Justify your answer using the usage trends.
